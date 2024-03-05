@@ -1,5 +1,5 @@
 # kubemerge
-![kubemerge logo](logo/logo.webp)
+![kubemerge logo](logo/logo.png)
 
 `kubemerge` is a command-line tool that simplifies the process of merging a standalone kubeconfig file into the default kubeconfig located at `$HOME/.kube/config`. This tool is especially useful for Kubernetes administrators and users who manage multiple clusters and need to consolidate their configurations seamlessly.
 
